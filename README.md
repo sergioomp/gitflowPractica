@@ -1,2 +1,3 @@
 # gitflowPractica
-Cambio Prueba
+Cambio Prueba 
+Se ha añadido un nuevo archivo README.md
