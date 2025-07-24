@@ -1,5 +1,5 @@
 ﻿-- =============================================
--- Author:		<Author,,Name>
+-- Author:		<Author,,Sergio>
 -- Create date: <Create Date,,>
 -- Description:	<Description,,>
 -- =============================================
